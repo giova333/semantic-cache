@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.hladunoleksander.semanticcache.redis.starter.autoconfiguration.RedisSemanticCacheAutoConfiguration

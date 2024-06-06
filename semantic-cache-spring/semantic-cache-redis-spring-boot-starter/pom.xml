@@ -5,10 +5,10 @@
     <parent>
         <groupId>io.github.giova333</groupId>
         <artifactId>semantic-cache-spring</artifactId>
-        <version>0.0.1</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
     <artifactId>semantic-cache-redis-spring-boot-starter</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>semantic-cache-spring-boot-starter</name>
     <description>semantic-cache-spring-boot-starter</description>
 

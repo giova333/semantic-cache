@@ -5,7 +5,7 @@
 
     <groupId>io.github.giova333</groupId>
     <artifactId>semantic-cache-examples</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>semantic-cache-examples</name>
     <description>semantic-cache-examples</description>
     <packaging>pom</packaging>

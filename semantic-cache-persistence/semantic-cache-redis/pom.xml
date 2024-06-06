@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.hladunoleksander</groupId>
+        <groupId>io.github.giova333</groupId>
         <artifactId>semantic-cache-persistence</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
 
     <artifactId>semantic-cache-redis</artifactId>
@@ -17,7 +17,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.hladunoleksander</groupId>
+            <groupId>io.github.giova333</groupId>
             <artifactId>semantic-cache-core</artifactId>
         </dependency>
         <dependency>

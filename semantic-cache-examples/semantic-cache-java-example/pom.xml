@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>semantic-cache-java-example</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -16,9 +16,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.hladunoleksander</groupId>
+            <groupId>io.github.giova333</groupId>
             <artifactId>semantic-cache-redis</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>dev.langchain4j</groupId>

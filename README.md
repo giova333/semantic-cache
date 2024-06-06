@@ -36,9 +36,8 @@ docker run -d -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
 
 * Add maven semantic-cache dependency to your project
 ```xml
-
 <dependency>
-    <groupId>com.hladunoleksander</groupId>
+    <groupId>io.github.giova333</groupId>
     <artifactId>semantic-cache-redis</artifactId>
     <version>${version}</version>
 </dependency>
@@ -55,13 +54,6 @@ docker run -d -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
 ```
 * Use `SemanticCache` in your application
 ```java
-import com.hladunoleksander.semanticcache.core.DefaultSemanticCache;
-import com.hladunoleksander.semanticcache.persistence.redis.RedisVectorStore;
-import com.hladunoleksander.semanticcache.persistence.redis.RedisVectorStoreProperties;
-import dev.langchain4j.model.openai.OpenAiEmbeddingModel;
-
-import java.time.Duration;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -95,9 +87,8 @@ public class Main {
 * Add maven `semantic-cache-redis-spring-boot-starter` dependency to your project
 
 ```xml
-
 <dependency>
-    <groupId>com.hladunoleksander</groupId>
+    <groupId>io.github.giova333</groupId>
     <artifactId>semantic-cache-redis-spring-boot-starter</artifactId>
     <version>${version}</version>
 </dependency>

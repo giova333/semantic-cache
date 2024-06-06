@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.hladunoleksander</groupId>
+        <groupId>io.github.giova333</groupId>
         <artifactId>semantic-cache-spring</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
     <artifactId>semantic-cache-redis-spring-boot-starter</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>semantic-cache-spring-boot-starter</name>
     <description>semantic-cache-spring-boot-starter</description>
 
@@ -23,7 +23,7 @@
             <optional>true</optional>
         </dependency>
         <dependency>
-            <groupId>com.hladunoleksander</groupId>
+            <groupId>io.github.giova333</groupId>
             <artifactId>semantic-cache-redis</artifactId>
         </dependency>
         <dependency>

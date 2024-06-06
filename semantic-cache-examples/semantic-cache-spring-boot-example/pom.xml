@@ -8,9 +8,9 @@
         <version>3.3.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.hladunoleksander</groupId>
+    <groupId>io.github.giova333</groupId>
     <artifactId>semantic-cache-spring-boot-example</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>semantic-cache-spring-boot-example</name>
     <description>semantic-cache-spring-boot-example</description>
     <properties>
@@ -28,9 +28,9 @@
             <optional>true</optional>
         </dependency>
         <dependency>
-            <groupId>com.hladunoleksander</groupId>
+            <groupId>io.github.giova333</groupId>
             <artifactId>semantic-cache-redis-spring-boot-starter</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>dev.langchain4j</groupId>
